@@ -1,36 +1,36 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+   Diante da atual crise global, nota-se uma fragilização muito grande economia brasileira. Como consequência, tem surgido um grande número de novos microempreendedores que optaram por empreender como alternativa ao crescente desemprego no país. 
+
+   Neste contexto, muitos destes novos empresários nunca tiveram contato direto com o empreendedorismo e não possuem ferramentas, conhecimentos e/ou experiências anteriores e, por consequência, não sabem precificar seus produtos de maneira apropriada para a comercialização. 
+
+   Perante o exposto, é de extrema usabilidade que existam ferramentas que apoiem estes novos empresários na precifição de seus produtos/serviços e que, forneçam informações relevantes e dados importantes para quem está começando no empreendedorismo facilitando a árdua busca do caminho da prosperidade. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+   Em concordância com o que foi evidenciado, o problema a ser resolvido pode ser definido pela dificuldade encontrada por microempreendedores iniciantes em definir de forma assertiva o produto e/ou serviço que está sendo comercializado, bem como definir os fatores que influenciam nesta composição de preço.  
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+   O objetivo geral deste projeto é criar uma página web que permita calcular o preço de venda de produtos e serviços com base em fatores relevantes de cada caso além de, disponibilizar informações de mercado, de fornecimento e um espaço de interação entre fornecedores e clientes. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, temos: 
+
+► Fornecer uma funcionalidade de calculadora que permita calcular o preço final dos produtos de forma simples, porém que entregue o valor com exatidão; 
+
+► Disponibilizar um ambiente em que seja possível acompanhar notícias, informações e dicas sobre empreendedorismo; 
+
+► Exibir uma página onde os fornecedores possam se cadastrar e que permita que os usuários estabeleçam contato com os mesmos além de espaço onde os empreendedores possam conversar entre si e discutir ideias. 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+É observado que antes mesmo da pandemia o Brasil já enfrentava o problema do desemprego, porém com a crise sanitária, foi notado uma tendência de alta nestes indicadores, alcançando números cada vez mais elevados. Juntamente com a alta do desemprego pode-se observar que o número de empreendedores foi crescendo no decorrer da pandemia. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Conforme reportagem disponível no jornal Estado de Minas publicado em 05/10/2021: <https://www.em.com.br/app/noticia/economia/2021/10/05/internas_economia,1311468/empreendedorismo-no-brasil-cresce-com-a-pandemia-e-o-desemprego-em-alta.shtml> "O Brasil foi o país onde a pandemia teve o papel mais forte de impulsionar o crescimento do empreendedorismo no longo prazo", disse o presidente do Sebrae. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Também, segundo a última edição da pesquisa Global Entrepreneurship Monitor (GEM), o número de empreendedores motivados por necessidade saltou de 37,5% para 50,4% em 2020.  
+
 
 ## Público-Alvo
 
