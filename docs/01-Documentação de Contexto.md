@@ -34,17 +34,14 @@ Também, segundo a última edição da pesquisa Global Entrepreneurship Monitor 
 
 ![Empreendedores por necessidade](https://user-images.githubusercontent.com/101111062/162035977-5fed0653-3c17-4c20-b3f8-fe601be41556.png)
 
+No entanto, nem todas essas empresas possuem uma sobrevida muito longa, segundo artigo da valor.globo, com apenas 5 anos, metade das empresas no brasil encerram suas atividades e a grande maioria da outra metade não consegue se manter por 10 anos. 
+
+![Fechamento de empresas](https://user-images.githubusercontent.com/101111062/162036936-43d7df47-84bd-4263-a388-c387bd3f4e4b.png)
+
+Diante deste fato, o projeto em questão visa proporcionar aos novos microempreendedores ferramentas e informações que contribuam para a diminuição destes indicadores, trazendo prosperidade e continuidade para seus negócios, visto que atualmente não é de conhecimento uma plataforma com essa finalidade que seja acessível e gratuita às pessoas que buscam informações sobre precificação, fornecedores e fatos relevantes. 
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Independentemente de a plataforma estar disponível a todas pessoas e empreendedores, o público-alvo deste projeto são os novos microempreendedores que possuem pouca ou nenhuma vivência com comércio e que também não possuem os conhecimentos e ferramentas necessárias para definir o valor de seus produtos para comercialização. 
 
