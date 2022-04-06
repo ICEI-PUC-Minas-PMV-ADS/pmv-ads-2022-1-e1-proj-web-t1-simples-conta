@@ -1,12 +1,13 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO` Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+`SEMESTRE` Eixo 1
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de uma página web que permita calcular o preço de venda de produtos e serviços com base em fatores relevantes.
 
 ## Integrantes
 
@@ -18,7 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
