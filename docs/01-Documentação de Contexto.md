@@ -32,6 +32,7 @@ Conforme reportagem disponível no jornal Estado de Minas publicado em 05/10/202
 Também, segundo a última edição da pesquisa Global Entrepreneurship Monitor (GEM), o número de empreendedores motivados por necessidade saltou de 37,5% para 50,4% em 2020.  
 
 
+![Empreendedores por necessidade](https://user-images.githubusercontent.com/101111062/162035977-5fed0653-3c17-4c20-b3f8-fe601be41556.png)
 
 
 ## Público-Alvo
@@ -46,3 +47,4 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
