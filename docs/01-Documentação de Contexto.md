@@ -31,6 +31,8 @@ Conforme reportagem disponível no jornal Estado de Minas publicado em 05/10/202
 
 Também, segundo a última edição da pesquisa Global Entrepreneurship Monitor (GEM), o número de empreendedores motivados por necessidade saltou de 37,5% para 50,4% em 2020.  
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/wiki
+
 
 ## Público-Alvo
 
