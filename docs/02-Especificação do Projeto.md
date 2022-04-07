@@ -1,91 +1,46 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A identificação do problema discutido no projeto e os pontos de interesse para a resolução do mesmo foi estabelecido através da observação de dificuldades apresentadas
+na precificação de produtos por parte de novos microempreendedores mediante pesquisas, análises, estudos, notícias e fóruns. As especificidades deste processo foram estabelecidas na configuração de personas e histórias de usuários. 
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem. 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+![Maria aparecida](https://user-images.githubusercontent.com/101111062/162037956-b69221cf-ee54-43e9-9408-6d49ce3e51b8.png)
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
+![João Paulo](https://user-images.githubusercontent.com/101111062/162037970-93159034-2bb5-44fc-ad47-6e4844b86d5b.png)
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Compreendido e identificado as personas para o projeto, conhecemos suas necessidades e dificuldades. Logo, foi possível estabelecer as seguintes histórias de usuário: 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+![Histórias de usuário](https://user-images.githubusercontent.com/101111062/162042791-237df8b4-ad3b-47a7-a007-d02a6cb9d5fb.png)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos do projeto serão expostos em requisitos funcionais: que descreve o funcionamento técnico dos itens, a forma como deverá ser executado e detalhes de suas funções, em resumo é o que o sistema vai fazer. E também em requisitos não funcionais: que define o uso da aplicação em termos de usabilidade, segurança, disponibilidade, desempenho, etc. Apresentados a seguir. 
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+Abaixo a listagem de requisitos funcionais que o sistema deve atender, com sua respectiva prioridade de entrega: 
 
+![Requisitos funcionais](https://user-images.githubusercontent.com/101111062/162049598-dc236817-f9fc-46e6-8d71-cac987cf090d.png)
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+O sistema deve atender aos requisitos abaixo de acordo com sua prioridade: 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+![Requisitos não funcionais](https://user-images.githubusercontent.com/101111062/162049923-96df3464-29e7-40f9-b13b-ba755dc26fef.png)
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+A seguir as definições limitantes da execução do projeto: 
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+![Restrições](https://user-images.githubusercontent.com/101111062/162276156-46ea8d71-934b-4573-a45b-db1ede010385.png)
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
