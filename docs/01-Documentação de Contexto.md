@@ -1,14 +1,14 @@
 # Introdução
 
-   Diante da atual crise global, nota-se uma fragilização muito grande economia brasileira. Como consequência, tem surgido um grande número de novos microempreendedores que optaram por empreender como alternativa ao crescente desemprego no país. 
+   Diante da atual crise global, nota-se uma fragilização muito grande economia brasileira. Como uma das consequências, tem surgido um grande número de novos microempreendedores que optaram por empreender como alternativa ao crescente desemprego no país. 
 
    Neste contexto, muitos destes novos empresários nunca tiveram contato direto com o empreendedorismo e não possuem ferramentas, conhecimentos e/ou experiências anteriores e, por consequência, não sabem precificar seus produtos de maneira apropriada para a comercialização. 
 
-   Perante o exposto, é de extrema usabilidade que existam ferramentas que apoiem estes novos empresários na precifição de seus produtos/serviços e que, forneçam informações relevantes e dados importantes para quem está começando no empreendedorismo facilitando a árdua busca do caminho da prosperidade. 
+   Perante o exposto, é de egrande importância que existam ferramentas que apoiem estes novos empresários na precifição de seus produtos/serviços e que, forneçam informações relevantes e dados importantes para quem está começando no empreendedorismo facilitando a árdua busca do caminho da prosperidade. 
 
 ## Problema
 
-   Em concordância com o que foi evidenciado, o problema a ser resolvido pode ser definido pela dificuldade encontrada por microempreendedores iniciantes em definir de forma assertiva o produto e/ou serviço que está sendo comercializado, bem como definir os fatores que influenciam nesta composição de preço.  
+   Em concordância com o que foi evidenciado, o problema a ser resolvido pode ser definido pela dificuldade encontrada por microempreendedores iniciantes em definir de forma assertiva o preço do produto e/ou serviço que está sendo comercializado, bem como definir os fatores que influenciam nesta composição de preço.  
 
 ## Objetivos
 
