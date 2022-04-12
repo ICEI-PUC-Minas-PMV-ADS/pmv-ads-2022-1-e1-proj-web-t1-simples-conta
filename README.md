@@ -6,7 +6,6 @@
 
 `SEMESTRE` Eixo 1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 Criação de uma página web que permita calcular o preço de venda de produtos e serviços com base em fatores relevantes.
 
 ## Integrantes
