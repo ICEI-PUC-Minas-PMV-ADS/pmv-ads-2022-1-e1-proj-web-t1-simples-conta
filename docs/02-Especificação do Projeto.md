@@ -27,20 +27,16 @@ Os requisitos do projeto serão expostos em requisitos funcionais: que descreve 
 
 Abaixo a listagem de requisitos funcionais que o sistema deve atender, com sua respectiva prioridade de entrega: 
 
-![Requisitos funcionais](https://user-images.githubusercontent.com/101111062/162049598-dc236817-f9fc-46e6-8d71-cac987cf090d.png)
+![RF](https://user-images.githubusercontent.com/100741625/163065484-bf2f8de2-f383-4bac-8910-3f50b9f8db2b.png)
 
 ### Requisitos não Funcionais
 
 O sistema deve atender aos requisitos abaixo de acordo com sua prioridade: 
 
-![Requisitos não funcionais](https://user-images.githubusercontent.com/101111062/162049923-96df3464-29e7-40f9-b13b-ba755dc26fef.png)
-
+![RNF](https://user-images.githubusercontent.com/100741625/163065505-b94b24a4-026f-47f5-b6c5-834224a4e1e2.png)
 
 ## Restrições
 
 A seguir as definições limitantes da execução do projeto: 
 
-
-![Restrições](https://user-images.githubusercontent.com/101111062/162276156-46ea8d71-934b-4573-a45b-db1ede010385.png)
-
-
+![Rest](https://user-images.githubusercontent.com/100741625/163065529-f93ba2ee-efaa-4fde-bbc3-a37f475aa356.png)
