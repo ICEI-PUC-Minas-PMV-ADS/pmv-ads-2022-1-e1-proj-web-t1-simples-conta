@@ -6,7 +6,7 @@ usuário realiza seu cadastro e a precificação de seu produto/serviço de form
 
 ## User Flow - Fluxo de usuário
 
-Na figura abaixo podemos visualizar o fluxo de interação do usuário através das telas do sistema. O detalhamento das telas pdoem ser vistos na seção Wireframes. 
+Na figura abaixo podemos visualizar o fluxo de interação do usuário através das telas do sistema. O detalhamento das telas podem ser vistos na seção Wireframes. 
 As telas da wireframe foram feitas no MarvelApp e podem ser visualizadas através do link ***link marvel
 
 -Colar tela user flow
@@ -20,9 +20,15 @@ As telas da wireframe foram feitas no MarvelApp e podem ser visualizadas atravé
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Wireframe são protótipos que auxiliam na estruturação do site e da interação entre suas páginas. É uma representação simplificada da entrega do projeto, resumida em linhas e textos, que podem ser feitos a mão ou com ajuda de alguma ferramenta. Para este projeto optamos por utilizar como ferramenta o MarvelApp. 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+A seguir temoso detalhamento das telas apresentadas no item User Flow.
+
+//descrever os itens que são comuns nas telas do user flow
+//Descrever cada tela mostrada no user flow
+
+
+![Exemplo de Wireframe](img/wireframe-example.png)
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
