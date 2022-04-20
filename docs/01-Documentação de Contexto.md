@@ -33,10 +33,12 @@ Também, segundo a última edição da pesquisa Global Entrepreneurship Monitor 
 
 
 ![Empreendedores por necessidade](https://user-images.githubusercontent.com/101111062/162035977-5fed0653-3c17-4c20-b3f8-fe601be41556.png)
+Figura 01 - Gráfico Crescimento do número de empreendedores
 
 No entanto, nem todas essas empresas possuem uma sobrevida muito longa, segundo artigo da valor.globo, com apenas 5 anos, metade das empresas no brasil encerram suas atividades e a grande maioria da outra metade não consegue se manter por 10 anos. 
 
 ![Fechamento de empresas](https://user-images.githubusercontent.com/101111062/162036936-43d7df47-84bd-4263-a388-c387bd3f4e4b.png)
+Figura 02 - Gráfico Fechamento de empresas 
 
 Diante deste fato, o projeto em questão visa proporcionar aos novos microempreendedores ferramentas e informações que contribuam para a diminuição destes indicadores, trazendo prosperidade e continuidade para seus negócios, visto que atualmente não é de conhecimento uma plataforma com essa finalidade que seja acessível e gratuita às pessoas que buscam informações sobre precificação, fornecedores e fatos relevantes. 
 
