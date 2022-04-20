@@ -4,11 +4,13 @@
 Para a montagem da interface do sistema priorizamos a acessibilidade e a agilidade, oferencendo uma página gratuita e disponível para acesso 24 horas por dia, onde o 
 usuário realiza seu cadastro e a precificação de seu produto/serviço de forma rápida. 
 
-## User Flow
+## User Flow - Fluxo de usuário
 
-![Exemplo de UserFlow](img/userflow.jpg)
+Na figura abaixo podemos visualizar o fluxo de interação do usuário através das telas do sistema. O detalhamento das telas pdoem ser vistos na seção Wireframes. 
+As telas da wireframe foram feitas no MarvelApp e podem ser visualizadas através do link ***link marvel
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+-Colar tela user flow
+
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
