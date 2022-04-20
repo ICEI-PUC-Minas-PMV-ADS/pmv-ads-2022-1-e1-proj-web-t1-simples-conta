@@ -1,15 +1,17 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia descreve as ferramentas utilizadas pela equipe no desenvolvimento do código, na organização do time e na execução das demais etapas do projeto.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+## Relação de Ambientes de Trabalho
 
-## Controle de Versão
+As etapas do projeto são desenvolvidos a partir de diversas plataformas e a relação destas com seu respectivo propósito é apresentada na lista que se segue:
+- O GitHub é o repositório do código fonte e o local de armazenamento da documentação;
+- O MarvelApps é a plataforma de design responsável pela criação do Wireframe e do User Flow;
+- O Trello é o gerenciador de projetos utilizado para a aplicação do Scrum.
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+## Gestão de código fonte
+
 
 O projeto segue a seguinte convenção para o nome de branches:
 
