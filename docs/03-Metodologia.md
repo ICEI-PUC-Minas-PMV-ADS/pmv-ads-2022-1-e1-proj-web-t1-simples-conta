@@ -39,41 +39,24 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+O Scrum foi o framework ágil escolhido para o desenvolvimento do projeto.
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte forma:
+- Product Owner: Adrian Kevem
+-	Scrum Master: Vivian Toyota
+-	Equipe de Desenvolvimento: Igor Goveia, Lorena Ribeiro e Ronaldo Gama.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello e o kanban estruturado com as seguintes listas: 
 
-### Processo
+-	Backlog: Recebe todas as atividades identificadas no decorrer do projeto
+-	To Do: Este é o Sprint atual que estamos trabalhando.
+-	Doing: Quando uma tarefa é iniciada, ela é movida para cá.
+-	Done: Recebe todas as tarefas do Sprint atual já finalizadas.
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/JMfAcqmm/kanban e é apresentado na figura abaixo. 
 
-### Ferramentas
+![Trello](img/trello.png)
 
-As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
