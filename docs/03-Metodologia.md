@@ -10,6 +10,8 @@ As etapas do projeto são desenvolvidos a partir de diversas plataformas e a rel
 - O MarvelApps é a plataforma de design responsável pela criação do Wireframes e do User Flow;
 - O Trello é o gerenciador de projetos utilizado para a aplicação do Scrum.
 
+// colar a tabela com os links
+
 ## Gestão de código fonte
 
 
