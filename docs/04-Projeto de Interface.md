@@ -33,18 +33,22 @@ As telas apresentadas no item User Flow foram divididas em telas comuns, telas d
 
 Tela Home-page
 Na tela inicial temos além de um breve resumo sobre o site e sua funcionalidade uma barra superior com os elementos: Calculadora, Chat com o fornecedor, Novidades e notícias. 
+
 ![Wireframe - Home Page](https://user-images.githubusercontent.com/100741625/164730516-d73f431a-555e-4f5b-a9ae-acfd232c6fdb.png)
 
 
-Ao clicar em qualquer uma das opções da barra superior da tela inicial o usuário é direcionado para a tela de login onde é identificado se ele é um usuário que deseja precificar seu produto serviço ou se ele é um fornecedor que deseja estar visivel para capatação de clientes. 
+Ao clicar em qualquer uma das opções da barra superior da tela inicial o usuário é direcionado para a tela de login onde é identificado se ele é um usuário que deseja precificar seu produto serviço ou se ele é um fornecedor que deseja estar visivel para capatação de clientes.
+
 ![Wireframe - Tela de login](https://user-images.githubusercontent.com/100741625/164732573-66358ea8-543f-4e57-acf6-124108ab9a6a.png)
 
 
 Após o login de fornecedores temos a tela abaixo, em sua barra superior temos as opções de chat e logout.
+
 ![Wireframe - Home Page Fornecedor](https://user-images.githubusercontent.com/100741625/164734634-a0fe6cfb-fad4-4c2c-a9b7-7577efe61039.png)
 
 
 Ao clicar na opção chat o usuário fornecedor é direcionado para a tela de interação entre fornecedores. 
+
 ![Wireframe - Chat 02](https://user-images.githubusercontent.com/100741625/164734954-5782a7bd-0093-4384-aed5-874162eea9af.png)
 
 
@@ -53,14 +57,17 @@ A seguir as imagens das funcionalidades apresentadas na tela inicial:
 
 
 Calculadora - Leva o usuário a tela onde se inicia a precificação do seu produto/serviço.
+
 ![Wireframe - Tela calculadora](https://user-images.githubusercontent.com/100741625/164732975-839be7e7-94b0-4de4-8619-f1c1d845396c.png)
 
 
 Chat com fornecedor - Direciona o usuário ao ambiente de interação do microeemprededor com fornecedores cadastrados.
+
 ![Wireframe - Chat com o fornecedor](https://user-images.githubusercontent.com/100741625/164735968-393be700-4c20-4030-994b-a5d962adfab4.png)
 
 
 Tela de Notícias
 Nela o usuário encontra notícias relevantes sobre empreendedorismo.
+
 ![Wireframe - Notícias](https://user-images.githubusercontent.com/100741625/164730675-e700df18-7bda-4465-81a2-a3c179b0e182.png)
 
