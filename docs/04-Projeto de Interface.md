@@ -10,7 +10,7 @@ Nas figuras abaixo podemos visualizar o fluxo de interação do usuário e do fo
 As telas da wireframe foram feitas no MarvelApp e podem ser visualizadas através do link ***link marvel
 
 ![Userflow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/UserflowUsuario.jpg)
-![Userflow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/UserflowCont.jpg)
+![Userflow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/Cont.jpg)
 ![Userflow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/UserflowForne.jpg)
 
 > **Links Úteis**:
