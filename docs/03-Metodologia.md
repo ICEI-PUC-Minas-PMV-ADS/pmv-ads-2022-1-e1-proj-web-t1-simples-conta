@@ -7,10 +7,11 @@ A metodologia descreve as ferramentas utilizadas pela equipe no desenvolvimento 
 
 As etapas do projeto são desenvolvidos a partir de diversas plataformas e a relação destas com seu respectivo propósito é apresentada na lista que se segue:
 - O GitHub é o repositório do código fonte e o local de armazenamento da documentação;
-- O MarvelApps é a plataforma de design responsável pela criação do Wireframes e do User Flow;
 - O Trello é o gerenciador de projetos utilizado para a aplicação do Scrum.
 
-// colar a tabela com os links
+
+![Sem título](https://user-images.githubusercontent.com/100741625/164763445-8651c7c8-2473-41f9-a9b3-ddc99432ae05.png)
+
 
 ## Gestão de código fonte
 
