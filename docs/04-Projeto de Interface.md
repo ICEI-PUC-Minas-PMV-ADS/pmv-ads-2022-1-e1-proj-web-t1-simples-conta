@@ -49,7 +49,7 @@ Após o login de fornecedores temos a tela abaixo, em sua barra superior temos a
 
 Ao clicar na opção chat o usuário fornecedor é direcionado para a tela de interação entre fornecedores. 
 
-![Wireframe - Chat 02](https://user-images.githubusercontent.com/100741625/164734954-5782a7bd-0093-4384-aed5-874162eea9af.png)
+![Wireframe - Chat com fornecedor](https://user-images.githubusercontent.com/100741625/164752006-f4065e97-81f6-4637-8172-2c633266856c.png)
 
 
 Se o usuário está logado na página como um microempreededor que deseja precificar seu produto/serviço, ele visualiza a mesma tela inicial mostrada na primeira imagem desta seção. 
