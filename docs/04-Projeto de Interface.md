@@ -9,8 +9,9 @@ usuário realiza seu cadastro e a precificação de seu produto/serviço de form
 Na figura abaixo podemos visualizar o fluxo de interação do usuário através das telas do sistema. O detalhamento das telas podem ser vistos na seção Wireframes. 
 As telas da wireframe foram feitas no MarvelApp e podem ser visualizadas através do link ***link marvel
 
--Colar tela user flow
-
+(img/UserflowUsuario.jpeg)
+(img/UserflowCont.jpeg)
+(img/UserflowForne.jpeg)
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
