@@ -4,10 +4,6 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
-
-Exemplo: 
-
 Os componentes que fazem parte da solução são apresentados na figura a seguir:
 
 ![Diagrama de Componentes](img/componentes.jpg)
