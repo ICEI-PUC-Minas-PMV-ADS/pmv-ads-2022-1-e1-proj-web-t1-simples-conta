@@ -15,7 +15,7 @@ As etapas do projeto são desenvolvidos a partir de diversas plataformas e a rel
 
 ## Gestão de código fonte
 
-Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um fluxo de trabalho de desenvolimento baseado em tronco. Desta forma, todas as manutenções no código são realizadas no branch master.
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um fluxo de trabalho de desenvolvimento baseado em tronco. Desta forma, todas as manutenções no código são realizadas no branch master.
 
 ## Gerenciamento de Projeto
 
