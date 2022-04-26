@@ -1,4 +1,4 @@
-# Grupo 5 – Precificação de produtos e/ou serviços 
+# Grupo 5 – Precificação de produtos 
 
 `CURSO` Análise e Desenvolvimento de Sistemas
 
