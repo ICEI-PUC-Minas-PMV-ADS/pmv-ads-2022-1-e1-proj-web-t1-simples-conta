@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Grupo 5 – Precificação de produtos e/ou serviços 
 
 `CURSO` Análise e Desenvolvimento de Sistemas
 
