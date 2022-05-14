@@ -33,7 +33,7 @@ Calculadora - Leva o usuário a tela onde se inicia a precificação do seu prod
 
 Curiosidades - Parte dedicada a explicação do atual cenário dos microempreendedores. 
 
-![Wireframe - Tela calculadora](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/calculadoraCo.JPG)
+![Wireframe - Tela calculadora](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/curiosidades.JPG)
 
 
 
