@@ -23,13 +23,13 @@ Tela Home-page Na tela inicial temos além de um breve resumo sobre o site e sua
 
 Ao clicar em qualquer uma das opções da barra superior da tela inicial o usuário é direcionado para a tela de login onde é identificado se ele é um usuário que deseja precificar seu produto serviço ou se ele é um fornecedor que deseja estar visível para captação de clientes. 
 
-![Wireframe - Tela de login](https://user-images.githubusercontent.com/100741625/164732573-66358ea8-543f-4e57-acf6-124108ab9a6a.png)
+![Wireframe - Tela de login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/loginCo.JPG)
 
 Se o usuário está logado na página como um microempreendedor que deseja precificar seu produto/serviço, ele visualiza a mesma tela inicial mostrada na primeira imagem desta seção. A seguir as imagens das funcionalidades apresentadas na tela inicial: 
 
 Calculadora - Leva o usuário a tela onde se inicia a precificação do seu produto/serviço. 
 
-![Wireframe - Tela calculadora](https://user-images.githubusercontent.com/100741625/164732975-839be7e7-94b0-4de4-8619-f1c1d845396c.png)
+![Wireframe - Tela calculadora](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/calculadoraCo.JPG)
 
 
 
