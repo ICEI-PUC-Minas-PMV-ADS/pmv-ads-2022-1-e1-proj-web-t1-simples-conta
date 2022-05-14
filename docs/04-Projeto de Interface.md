@@ -6,7 +6,7 @@ usuário realiza seu cadastro e a precificação de seu produto/serviço de form
 
 ## User Flow - Fluxo de usuário
 
-Nas figuras abaixo podemos visualizar o fluxo de interação dos usuários, seja ele um fornecedor ou um microempreendedor que deseja precificar seu produto/serviço. O detalhamento das telas do sistema pode ser visto na seção Wireframes. As telas da wireframe foram feitas o Microsoft PowerPoint.
+Na figura abaixo podemos visualizar o fluxo de interação dos usuários, ou seja, um microempreendedor que deseja precificar seu produto/serviço. O detalhamento das telas do sistema pode ser visto na seção Wireframes. As telas da wireframe foram feitas no Microsoft PowerPoint.
 
 Telas comuns a todos os usuários:
 ![Userflow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/userflowCo/Diapositivo1.JPG)
@@ -15,9 +15,9 @@ Telas comuns a todos os usuários:
 
 Wireframes são protótipos que auxiliam na estruturação do site e da interação entre suas páginas. É uma representação simplificada da entrega do projeto, resumida em linhas e textos, que podem ser feitos a mão ou com ajuda de alguma ferramenta. Para este projeto optamos por utilizar como ferramenta o Microsoft PowerPoint. 
 
-As telas apresentadas no item User Flow foram divididas em telas comuns, telas de fornecedores e de microeempredores cadastrados e logados. 
+As telas apresentadas no item User Flow foram divididas em telas comuns de microeempredores cadastrados e logados. 
 
-Tela Home-page Na tela inicial temos além de um breve resumo sobre o site e sua funcionalidade uma barra superior com os elementos: Calculadora, Chat com o fornecedor, Novidades e notícias. 
+Tela Home-page Na tela inicial temos além de um breve resumo sobre o site e sua funcionalidade uma barra superior com os elementos: Calculadora, Sobre Nós e Curiosidades. 
 
 ![Wireframe - Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/telaHome.JPG)
 
