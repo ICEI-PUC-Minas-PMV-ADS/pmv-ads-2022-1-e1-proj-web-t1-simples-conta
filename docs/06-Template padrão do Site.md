@@ -2,11 +2,36 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O  padrão  de  layout  a  ser  utilizado  pelo  site  tem  correspondência  ao  projeto  de  Interface elaborado anteriormente.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+![Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/template.JPG)
+
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1simplesconta/blob/main/app/src/frontend/simplesConta.html  e é composto pelos seguintes layouts: 
+● Tela Inicial
+● Tela de Login
+● Tela Curiosidades
+
+A responsividade segue o padrão do Bootstrap e também foi utilizado o HTML e CSS.
+
+# Tela Inicial 
+
+Tela principal que aparece para o usuário assim que é renderizado o site.
+
+![TelaUm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/tela1.JPG)
+
+# Tela Login
+
+Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de novos usuários e também consegue realizar o login.
+
+*** colocar a imagem da tela do login
+
+# Tela Curiosidades
+
+Tela onde o usuário consegue ver comentários de outros usuários em relação a nossa solução.
+
+![Comentarios](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/curiosidades.JPG)
+
+
+
+
+
