@@ -7,6 +7,7 @@ O  padrão  de  layout  a  ser  utilizado  pelo  site  tem  correspondência  ao
 ![Template](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/template.JPG)
 
 O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1simplesconta/blob/main/app/src/frontend/simplesConta.html  e é composto pelos seguintes layouts: 
+
 ● Tela Inicial
 ● Tela de Login
 ● Tela Curiosidades
