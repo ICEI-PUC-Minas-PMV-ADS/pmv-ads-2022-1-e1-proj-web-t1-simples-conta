@@ -1,15 +1,41 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Nesta seção são apresentadas as telas desenvolvidas e suas respectivas funcionalidades 
+do sistema.
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+# Tela Login (RF-01)
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de novos usuários e também consegue realizar o login.
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+**tela login
+
+Requisitos atendidos
+● RF-01 - 
+
+Artefatos da funcionalidade
+● index.html
+● script.js
+● style.css
+● simples.JPG
+
+Instruções de acesso
+
+Acesse pelo arquivo "login" que esta na pasta através do seguinte caminho:
+
+****colocar imagem do caminho das pastas
+
+Instruções de acesso ao Homepage do Simples Conta:
+
+1. Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+2. Descompacte o arquivo em uma pasta específica;
+3. Abra as pastas através do windows explorer seguindo o seguinte caminho:
+**imagem
+6. Clique duas vezes no arquivo "simplesConta" e ele será direcionado para a visualização web.
+
+
+
+
+
+
+
+

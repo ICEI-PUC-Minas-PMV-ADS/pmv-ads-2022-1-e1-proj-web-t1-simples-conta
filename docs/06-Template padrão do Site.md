@@ -10,6 +10,7 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 
 ● Tela Inicial
 ● Tela de Login
+● Tela Calculadora (em desenvolvimento)
 ● Tela Curiosidades
 
 A responsividade segue o padrão do Bootstrap e também foi utilizado o HTML e CSS.
