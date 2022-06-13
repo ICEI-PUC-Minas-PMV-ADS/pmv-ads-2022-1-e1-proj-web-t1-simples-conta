@@ -21,6 +21,24 @@ Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de
 Requisitos atendidos
 ● RF-02
 
+# Dúvidas/fale conosco (RF-03)
+
+Formulário para envio de dúvidas,esclarecimentos etc.
+
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/duvidas.JPG)
+
+Requisitos atendidos
+● RF-03
+
+# Localização pelo google maps (RF-04)
+
+Localização do escritório pelo google maps.
+
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/localiza%C3%A7%C3%A3o.JPG)
+
+Requisitos atendidos
+● RF-04
+
 Artefatos da funcionalidade
 ● index.html
 ● script.js
