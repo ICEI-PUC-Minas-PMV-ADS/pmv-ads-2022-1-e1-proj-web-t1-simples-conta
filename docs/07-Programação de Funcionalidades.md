@@ -12,6 +12,15 @@ Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de
 Requisitos atendidos
 ● RF-01 - 
 
+# Tela Cadastro (RF-02)
+
+Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de novos usuários e também consegue realizar o login.
+
+**tela login
+
+Requisitos atendidos
+● RF-02 - 
+
 Artefatos da funcionalidade
 ● index.html
 ● script.js
