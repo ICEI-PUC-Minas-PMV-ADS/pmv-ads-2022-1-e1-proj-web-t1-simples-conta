@@ -12,6 +12,15 @@ Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de
 Requisitos atendidos
 ● RF-01 - 
 
+# Tela de Cadastro (novos usuários) (RF-02)
+
+Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de novos usuários.
+
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/cadastro.JPG)
+
+Requisitos atendidos
+● RF-02
+
 Artefatos da funcionalidade
 ● index.html
 ● script.js
