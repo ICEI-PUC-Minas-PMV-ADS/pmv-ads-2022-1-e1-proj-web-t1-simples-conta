@@ -10,8 +10,6 @@ Criação de uma página web que permita calcular o preço de venda de produtos 
 
 ## Integrantes
 
-* Lorena Alves Ribeiro
-* Ronaldo da Gama
 * Vivian Kimie Toyota
 
 ## Orientador
