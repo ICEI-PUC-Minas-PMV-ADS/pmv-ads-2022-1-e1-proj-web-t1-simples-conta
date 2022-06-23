@@ -70,7 +70,6 @@
                         <p class="text-center">Não faz ideia de qual preço anunciar?</p>
                         <p class="text-center">Se você ja se sentiu assim, nossa ferramenta surgiu para agregar na sua empresa.</p>
                         <p class="text-center">Com a nossa solução você pode calcular de forma simples o preço de seus produtos!</p>
-                        <p class="text-center">Além de tudo isso, você poderá obter conhecimentos de microempreendorismo para alavancar sua empresa através do nosso newsletter!</p>
                     </div>
                 </div>
             </div>
@@ -81,14 +80,46 @@
    <!-- -----início calculadora----- -->
     <div class="container">
         <div class="row mb-5 mt-5" id="calculadora">
-            <h3 class="display-4 mb-4">Calculadora</h3>
+            <h3 class="display-4 mb-4">Calculadora de precificação de produtos</h3>
             <div class="col">
-                <p class="text-center">*****vamos ainda desenvolver a solução para colocar aqui*****</p>
+                <head>
+                    <title>Calcular preço de venda de produtos</title>
+                </head>
+                <h5 class="mb-5 mt-5">Primeiro vamos calcular algumas informações importantes!</h5>
+                <div>
+                    <script type="text/javascript" src="calculadora.js"></script>
+                    <p>Valor total de despesas:</p>
+                    <input id="num1" type="number"> <br />
+                    <p>Valor total de serviço:</p>
+                    <input id="num2" type="number"> <br />
+                    <p>Valor total de gastos fixos:</p>
+                    <input id="num3" type="number"> <br />
+                    <input type="radio" name="calc" id="soma"/> Soma<br />
+                    <input type="radio" name="calc" id="subtracao"/> Subtração<br />
+                    <input type="radio" name="calc" id="multiplicacao"/> Multiplicação<br />
+                    <input type="radio" name="calc" id="divisao"/> Divisão<br />
+                    <button type="button" class="btn btn-outline-success" onclick="main()">Calcular</button><br />
+                    Resposta: <div id="resp"></div>
+                </div>
+                <h5 class="mb-5 mt-5">Hora de somar o resultado anterior + o valor de lucro que deseja ter sobre esse produto!</h5>
+                <div>
+                    <script type="text/javascript" src="calculadora2.js"></script>
+                    <p>Resultado da somatória anterior:</p>
+                    <input id="num1" type="number"> <br />
+                    <p>Valor do lucro desejado:</p>
+                    <input id="num2" type="number"> <br />
+                    <input type="radio" name="calc" id="soma"/> Soma<br />
+                    <input type="radio" name="calc" id="subtracao"/> Subtração<br />
+                    <input type="radio" name="calc" id="multiplicacao"/> Multiplicação<br />
+                    <input type="radio" name="calc" id="divisao"/> Divisão<br />
+                    <button type="button" class="btn btn-outline-success" onclick="main2()">Calcular</button><br />
+                    Resposta: <div id="resp"></div>
+                </div>
             </div>
 
         </div>
         <hr>
-        <!-- -----fim categoria feminino----- -->
+        <!-- -----fim calculadora----- -->
 
         <!-- ------início solução----- -->
         <div class="row mb-5 mt-4 " id="solucao">
