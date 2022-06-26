@@ -3,25 +3,7 @@
 Nesta seção são apresentadas as telas desenvolvidas e suas respectivas funcionalidades 
 do sistema.
 
-# Tela Login (RF-01)
-
-Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de novos usuários e também consegue realizar o login.
-
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/siteLogin.JPG)
-
-Requisitos atendidos
-● RF-01 - 
-
-# Tela de Cadastro (novos usuários) (RF-02)
-
-Tela aonde o usuário pode clicar no link que possibilita realizar o cadastro de novos usuários.
-
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/cadastro.JPG)
-
-Requisitos atendidos
-● RF-02
-
-# Dúvidas/fale conosco (RF-03)
+# Calculadora de precificação de produtos (RF-01)
 
 Formulário para envio de dúvidas,esclarecimentos etc.
 
@@ -30,7 +12,16 @@ Formulário para envio de dúvidas,esclarecimentos etc.
 Requisitos atendidos
 ● RF-03
 
-# Localização pelo google maps (RF-04)
+ # Dúvidas/fale conosco (RF-02)
+
+Formulário para envio de dúvidas,esclarecimentos etc.
+
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/duvidas.JPG)
+
+Requisitos atendidos
+● RF-03
+
+# Localização pelo google maps (RF-03)
 
 Localização do escritório pelo google maps.
 
