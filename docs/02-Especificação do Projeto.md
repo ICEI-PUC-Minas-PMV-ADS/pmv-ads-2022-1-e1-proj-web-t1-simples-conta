@@ -17,7 +17,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 Compreendido e identificado as personas para o projeto, conhecemos suas necessidades e dificuldades. Logo, foi possível estabelecer as seguintes histórias de usuário: 
 
-![Histórias de usuário](https://user-images.githubusercontent.com/101111062/162042791-237df8b4-ad3b-47a7-a007-d02a6cb9d5fb.png)
+![Histórias de usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/requisitosPersonas.JPG)
 
 ## Requisitos
 
@@ -27,13 +27,13 @@ Os requisitos do projeto serão expostos em requisitos funcionais: que descreve 
 
 Abaixo a listagem de requisitos funcionais que o sistema deve atender, com sua respectiva prioridade de entrega: 
 
-![RF](https://user-images.githubusercontent.com/100741625/163065484-bf2f8de2-f383-4bac-8910-3f50b9f8db2b.png)
+![RF](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/requisitosFuncionais.JPG)
 
 ### Requisitos não Funcionais
 
 O sistema deve atender aos requisitos abaixo de acordo com sua prioridade: 
 
-![RNF](https://user-images.githubusercontent.com/100741625/163065505-b94b24a4-026f-47f5-b6c5-834224a4e1e2.png)
+![RNF](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/requisitosNFuncionais.JPG)
 
 ## Restrições
 
