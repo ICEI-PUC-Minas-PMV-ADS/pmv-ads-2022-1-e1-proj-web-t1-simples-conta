@@ -5,7 +5,7 @@ do sistema.
 
 # Calculadora de precificação de produtos (RF-01)
 
-Formulário para envio de dúvidas,esclarecimentos etc.
+Calculadoras para estimar o valor de precificação de um produto.
 
 ![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/duvidas.JPG)
 
@@ -21,7 +21,7 @@ Formulário para envio de dúvidas,esclarecimentos etc.
 Requisitos atendidos
 ● RF-03
 
-# Localização pelo google maps (RF-03)
+# Localização pelo google maps (RNF-01)
 
 Localização do escritório pelo google maps.
 

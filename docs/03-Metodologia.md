@@ -35,7 +35,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/JMfAcqmm/kanban e é apresentado na figura abaixo. 
 
-![Trello](img/trello.png)
+![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/trelloSimples.JPG)
 
 
 
