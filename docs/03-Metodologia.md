@@ -21,10 +21,9 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 
 O Scrum foi o framework ágil escolhido para o desenvolvimento do projeto.
 
-A equipe está organizada da seguinte forma:
-- Product Owner: Adrian Kevem
--	Scrum Master: Vivian Toyota
--	Equipe de Desenvolvimento: Igor Goveia, Lorena Ribeiro e Ronaldo Gama.
+A equipe está constituída pela integrante:
+
+- Vivian Toyota
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello e o kanban estruturado com as seguintes listas: 
 
