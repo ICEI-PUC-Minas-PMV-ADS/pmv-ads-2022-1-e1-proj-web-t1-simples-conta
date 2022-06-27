@@ -12,15 +12,11 @@
 
 ## Objetivos
 
-   O objetivo geral deste projeto é criar uma página web que permita calcular o preço de venda de produtos e serviços com base em fatores relevantes de cada caso além de, disponibilizar informações de mercado, de fornecimento e um espaço de interação entre fornecedores e clientes. 
+   O objetivo geral deste projeto é criar uma página web que permita calcular o preço de venda de produtos. 
 
 Como objetivos específicos, temos:
 
-►  Fornecer uma funcionalidade de calculadora que permita calcular o preço final dos produtos de forma simples, porém que entregue o valor com exatidão; 
-
-►  Disponibilizar um ambiente em que seja possível acompanhar notícias, informações e dicas sobre empreendedorismo; 
-
-►  Exibir uma página onde os fornecedores possam se cadastrar e que permita que os usuários estabeleçam contato com os mesmos além de espaço onde os empreendedores possam conversar entre si e discutir ideias. 
+►  Fornecer uma funcionalidade de calculadora que permita calcular o preço final dos produtos de forma simples, porém que entregue o valor com exatidão;
  
 
 ## Justificativa
