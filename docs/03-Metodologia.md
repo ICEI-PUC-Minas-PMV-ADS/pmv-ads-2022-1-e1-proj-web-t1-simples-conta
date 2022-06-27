@@ -10,7 +10,7 @@ As etapas do projeto são desenvolvidos a partir de diversas plataformas e a rel
 - O Trello é o gerenciador de projetos utilizado para a aplicação do Scrum.
 
 
-![Sem título](https://user-images.githubusercontent.com/100741625/164763445-8651c7c8-2473-41f9-a9b3-ddc99432ae05.png)
+![Sem título](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/ambientePlat.JPG)
 
 
 ## Gestão de código fonte
