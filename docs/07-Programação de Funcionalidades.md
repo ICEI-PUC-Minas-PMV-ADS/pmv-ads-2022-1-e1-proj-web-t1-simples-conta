@@ -7,7 +7,8 @@ do sistema.
 
 Calculadoras para estimar o valor de precificação de um produto.
 
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/duvidas.JPG)
+![Calculadora](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/calculadora.JPG)
+![Calculadora](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/calculadora2.JPG)
 
 Requisitos atendidos
 ● RF-03
