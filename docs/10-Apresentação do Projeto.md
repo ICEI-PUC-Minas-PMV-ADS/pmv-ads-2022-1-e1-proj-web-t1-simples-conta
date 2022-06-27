@@ -10,5 +10,5 @@ Simples Conta
 
 ## Identidade Visual (Marca, Design)
 
-![SimplesConta](https://user-images.githubusercontent.com/100741625/163065529-f93ba2ee-efaa-4fde-bbc3-a37f475aa356.png)
+![SimplesConta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t1-simples-conta/blob/main/docs/img/identidade.JPG)
 
